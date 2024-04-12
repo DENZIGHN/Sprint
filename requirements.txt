@@ -1,0 +1,7 @@
+Django~=4.2.3
+python-dotenv~=1.0.0
+pytest~=7.4.0
+pytest-django
+djangorestframework~=3.14.0
+psycopg2
+drf-yasg
