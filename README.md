@@ -15,7 +15,7 @@ This is REST API for mobile application that FSTR commissioned SkillFactory stud
 
 1. Clone the repository or download the zip file
 ```
-git clone https://github.com/NikZip/Sprint
+git clone https://github.com/DENZIGHN/Sprint
 ```
 2. Rename file **`.env_template`** to **`.env`** and full **`DATABASE DATA`**  with yours
 
